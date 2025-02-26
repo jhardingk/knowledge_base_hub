@@ -1,0 +1,45 @@
+<p style="text-align: center;">
+
+
+</p>
+
+<!--Header-->
+<div class="cms-page-title text-center" style="text-align: center;">
+
+<h1>Asgard Publish 2.36</h1>
+
+<h3>AsgardMobile and Desktop Updates</h3>
+<br>
+
+</div>
+
+<!--Icon Row-->
+<div class="row" style="text-align: center; margin-left: 50px; margin-right: 50px;">
+
+<!--Icon One-->
+<div class="column" style="float: left">
+ <a href="https://vimeo.com/1053436372/a28edea9d2?ts=0&amp;share=copy" target="_blank">
+ <img src="https://raw.githubusercontent.com/jhardingk/homepageknowledgebase/refs/heads/main/Pinch%20to%20Zoom%20Icon%20Final.png" class="img-responsive" alt="Pinch to Zoom" style="width: 200px;"><br>
+
+</a> 
+</div>
+
+<!--Icon Two-->
+<div class="column" style="text-align-last: center">
+ <a href="https://vimeo.com/1051593860/560a904e66" target="_blank">
+ <img src="https://raw.githubusercontent.com/jhardingk/homepageknowledgebase/refs/heads/main/Android%20Rework%20Icon%20Final.png" class="img-responsive" alt="Android Rework" style="width: 200px;"><br>
+
+</a> 
+</div>
+
+<!--Icon Three-->
+<div class="column" style="float: right">
+ <a href="https://vimeo.com/1051272370/9461bf6275" target="_blank">
+ <img src="https://raw.githubusercontent.com/jhardingk/homepageknowledgebase/refs/heads/main/iPhone%20Rework%20Icon%20Final.png" class="img-responsive" alt="iPHone Rework" style="width: 200px;"><br>
+
+</a> 
+</div>
+
+
+
+</div>
